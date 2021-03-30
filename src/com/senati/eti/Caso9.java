@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Caso9 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) {  //falta
 		Scanner sc = new Scanner(System.in);
 		DecimalFormat df = new DecimalFormat("#.00");
 		
